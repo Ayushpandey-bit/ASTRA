@@ -21,10 +21,6 @@ def ask_ai(user_text, history):
             "content": message
         })
 
-    messages.append({
-        "role": "user",
-        "content": user_text
-    })
 
     response = ollama.chat(
         model="llama3:8b",

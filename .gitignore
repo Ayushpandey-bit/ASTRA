@@ -15,18 +15,4 @@ astra_memory.db
 
 .DS_Store
 Thumbs.db
-__pycache__/
-*.pyc
-
-.env
-.venv/
-venv/
-
-mic_input.wav
-astra_memory.db
-
-*.m4a
-*.wav
-*.zip
-
-/hey astra/
+"hey astra/"
